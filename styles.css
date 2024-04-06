@@ -1,0 +1,57 @@
+.applelogo {
+  margin-bottom: 8px;
+  margin-right: 8px;
+  margin-left: 8px;
+}
+.applelogoblack {
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+.heroelement {
+  background-color: black;
+}
+
+.heroelement2 {
+  background-color: lightblue;
+}
+
+.footerelement2 {
+  background-color: rgb(33, 37, 41);
+  margin-top: 20px;
+}
+.footerelement{
+  background-color: rgb(33, 37, 41);
+}
+
+.applelogofooter {
+  margin-right: 4px;
+}
+
+.products {
+  margin-top: 250px;
+}
+.macphototitle {
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 40px;
+}
+
+.video {
+  border-radius: 25%;
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 100%;
+  height: 600px;
+  text-align: center;
+}
+
+.card {
+  margin-top: 100px;
+}
+
+.col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
